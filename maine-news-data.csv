@@ -1,0 +1,11 @@
+town_name,county,news_outlets,has_newspaper,has_digital,has_radio,latitude,longitude
+Portland,Cumberland,12,1,1,1,43.6591,-70.2568
+Bangor,Penobscot,4,1,1,1,44.8012,-68.7778
+Augusta,Kennebec,3,1,1,0,44.3106,-69.7795
+Lewiston,Androscoggin,2,1,1,0,44.1004,-70.2148
+Caribou,Aroostook,0,0,0,0,46.8606,-68.0117
+Machias,Washington,0,0,0,0,44.7154,-67.4628
+Millinocket,Penobscot,1,0,1,0,45.6573,-68.7092
+Presque Isle,Aroostook,2,1,0,1,46.6812,-68.0159
+Rockland,Knox,3,1,1,0,44.1037,-69.1089
+Calais,Washington,0,0,0,0,45.1882,-67.2765
