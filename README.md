@@ -1,2 +1,2 @@
 # gis-research-engineering
-Self-directed GIS engineering study —  ArcGIS Online, REST API, Experience  Builder, Arcade scripting, and the  ArcGIS Maps SDK for JavaScript.
+ GIS engineering  —  ArcGIS Online, REST API, Experience  Builder, Arcade scripting, and the  ArcGIS Maps for JavaScript.
