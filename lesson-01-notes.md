@@ -50,7 +50,7 @@ How features look on the map:
 - where=1=1 means give me everything
 
 ## What I Actually Did Today
-- Made my first REST API call in the browser
+- Made  REST API call in the browser
 - Read real JSON responses from Esri servers
 - Queried US Census data and filtered by population
 - Learned to use the Services Directory
